@@ -11,8 +11,7 @@ px-md-4 mb-3 bg-white border-bottom shadow-sm">
      <a class="btn btn-outline-primary" href="auth.php">
 	 Users rooms</a>
 	<?php else: ?>   
-	<a class="btn btn-outline-primary" href="auth.php">
-	Войти</a>
+	<a class="btn btn-outline-primary" href="auth.php">Came</a>
 	<?php endif; ?>
 </div>
  
