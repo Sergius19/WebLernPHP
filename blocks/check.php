@@ -1,5 +1,7 @@
 <?php
-	//print_r($_POST);
+	print_r($_POST);
+	/*
+	
 	$email = $_POST['email'];
 	$message = $_POST['message'];
 
@@ -22,5 +24,5 @@
 	mail('admin@site.com', $subject, $message, $headers);
 
 	header('Location: /about.php');
-
+*/
 ?>

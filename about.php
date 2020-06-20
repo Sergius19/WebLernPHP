@@ -12,13 +12,11 @@
 		<?php require "blocks/header.php" ?>
 	<div class="container" mt-5>
 	<h3>Contacts form</h3>
-	
 	<form action="check.php" method="post">
 	<input type="email" name="email" placeholder="Input email"
 	class="form-control"><br>
 	<textarea name="message" class="form-control"
 	placeholder="Input your message"></textarea><br>
-	
 	<button type="submit" name="send" class="btn btn-success">Sent</button>
 	</form>
 	</div>
