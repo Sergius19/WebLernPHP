@@ -1,4 +1,4 @@
 <?php
-	setcookie('user', 'Да', time() + 3600, '/');
+	setcookie('user', 'Yes', time() + 3600, '/');
 	header('Location: /');
 ?>
